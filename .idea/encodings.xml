@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java/page_object/CatalogPage.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/MainMenuItemsExistingTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/chromedriver.exe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/submenuOfCarFleaMarket.feature" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>

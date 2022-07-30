@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="126a8b2a-96c0-40a8-a992-a5ec06b09e1b" name="Changes" comment="">
+    <list default="true" id="126a8b2a-96c0-40a8-a992-a5ec06b09e1b" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/steps/DriverHooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/steps/SubmenuHousesAndFlatsExistingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/steps/SubmenuOfCarFleaMarketExistingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/tests_runner/CucumberTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/submenuOfCarFleaMarket.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/submenuOfHousesAndFlats.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/OnlinerNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/OnlinerNavigation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/page_object/AbstractPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page_object/AbstractPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/page_object/CatalogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page_object/CatalogPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page_object/CatalogPage.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/page_object/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page_object/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webDriver/WebDriverDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webDriver/WebDriverDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/EachElementOfAccessoriesContainingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/EachElementOfAccessoriesContainingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/ListItemsOfComputersAndNetsExistingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/ListItemsOfComputersAndNetsExistingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/MainMenuItemsExistingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/MainMenuItemsExistingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webDriver/WebDriverDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webDriver/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/EachElementOfAccessoriesContainingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/ListItemsOfComputersAndNetsExistingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/catalog_page/MainMenuItemsExistingTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +52,54 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/olapo/AppData/Local/Temp/SeleniumProject/src/test/resources",
-    "settings.editor.selected.configurable": "File.Encoding"
+    "last_opened_file_path": "C:/Users/olapo/IdeaProjects/Selenium/src/test/resources/com.it_academy.onliner.features",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olapo\IdeaProjects\Selenium\src\test\resources\com.it_academy.onliner.features" />
+      <recent name="C:\Users\olapo\IdeaProjects\Selenium\src\test\resources" />
       <recent name="C:\Users\olapo\AppData\Local\Temp\SeleniumProject\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainMenuItemsExistingTest">
-    <configuration name="EachElementOfAccessoriesContainingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProject" />
+  <component name="RunManager" selected="JUnit.CucumberTestRunner">
+    <configuration name="Feature: submenuOfCarFleaMarket" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/submenuOfCarFleaMarket.feature" />
+      <option name="GLUE" value="com.it_academy.onliner.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Selenium" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: submenuOfCarFleaMarket" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it_academy.onliner.tests_runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it_academy.onliner.tests_runner" />
+      <option name="MAIN_CLASS_NAME" value="com.it_academy.onliner.tests_runner.CucumberTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EachElementOfAccessoriesContainingTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.it_academy.onliner.catalog_page.*" />
@@ -86,22 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListItemsOfComputersAndNetsExistingTest.testIsExistNamesOfLinkItemOnCatalogPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.it_academy.onliner.catalog_page.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.it_academy.onliner.catalog_page" />
-      <option name="MAIN_CLASS_NAME" value="com.it_academy.onliner.catalog_page.ListItemsOfComputersAndNetsExistingTest" />
-      <option name="METHOD_NAME" value="testIsExistNamesOfLinkItemOnCatalogPage" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainMenuItemsExistingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject" />
       <extension name="coverage">
@@ -117,28 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rrr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.it_academy.onliner.catalog_page.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.it_academy.onliner.catalog_page" />
-      <option name="MAIN_CLASS_NAME" value="com.it_academy.onliner.catalog_page.rrr" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CucumberTestRunner" />
+        <item itemvalue="Cucumber Java.Feature: submenuOfCarFleaMarket" />
+        <item itemvalue="JUnit.EachElementOfAccessoriesContainingTest (1)" />
         <item itemvalue="JUnit.MainMenuItemsExistingTest" />
         <item itemvalue="JUnit.ListItemsOfComputersAndNetsExistingTest" />
-        <item itemvalue="JUnit.EachElementOfAccessoriesContainingTest" />
-        <item itemvalue="JUnit.ListItemsOfComputersAndNetsExistingTest.testIsExistNamesOfLinkItemOnCatalogPage" />
-        <item itemvalue="JUnit.rrr" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +162,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658068874083</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1658515718973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658515718974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,5 +182,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
